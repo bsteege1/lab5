@@ -1,2 +1,8 @@
 ﻿  Lab7Driver.cpp
-  Lab7.vcxproj -> c:\Users\bsteege1\source\repos\Lab7\Debug\Lab7.exe
+  Lab7MyStack.cpp
+c:\users\brandon\documents\github\lab5\lab7\lab7\lab7mystack.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\github\lab5\lab7\lab7\lab7mystack.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\github\lab5\lab7\lab7\lab7mystack.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\brandon\documents\github\lab5\lab7\lab7\lab7mystack.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Lab7.vcxproj -> C:\Users\Brandon\Documents\GitHub\lab5\Lab7\Debug\Lab7.exe
